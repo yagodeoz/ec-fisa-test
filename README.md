@@ -19,6 +19,8 @@ Gracias por su atención.
 Para ejecutar el programa se necesita, abrirlo con intelij compilarlo con jdk 17
 Y finalmente ejecutar el test, hice un test simple para validar, como indiqué incialmente hay muchas combinaciones.
 
+Ejemplo tomado para el curso
+
 
 
 
